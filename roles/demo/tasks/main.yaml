@@ -1,0 +1,3 @@
+- name: hello world from main.yaml 
+  ansible.buitin.debug:
+    msg: "hello world"
