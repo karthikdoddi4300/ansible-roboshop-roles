@@ -5,7 +5,7 @@
 
 - name: java  setup
   ansible.builtin.import_role:
-    name: ommon
+    name: common
     tasks_from: java-setup.yaml
 
 - name: systemd  setup
