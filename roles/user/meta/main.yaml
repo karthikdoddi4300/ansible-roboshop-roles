@@ -1,3 +1,3 @@
 dependencies:
-#  catalogue is depending on common role for execution 
+#  user is depending on common role for execution 
 - role: common
