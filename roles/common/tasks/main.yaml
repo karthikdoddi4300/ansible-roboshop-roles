@@ -1,0 +1,3 @@
+- name: test call
+  ansible.buitlin.debug:
+    msg: " from common role {{ component }}"
