@@ -1,6 +1,6 @@
 - name: app setup
   ansible.builtin.import_role:
-    name: common
+    name: ommon
     tasks_from: app-setup.yaml
 
 - name: nodejs setup
